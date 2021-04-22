@@ -13,7 +13,7 @@ Prova a riprodurre tutti gli step mostrati nei video per comprendere meglio l'ut
 <b>https://sviluppo-web-dhch.github.io/tutorial/</b>
 
 Per accedere al codice sviluppato durante i tutorial:
-<b></b>
+<b>https://sviluppo-web-dhch.github.io/codice-tutorial/</b>
 
 GLHF!
 
