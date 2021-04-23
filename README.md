@@ -24,7 +24,7 @@ Per accedere al codice sviluppato durante i tutorial:
 
 <b>https://sviluppo-web-dhch.github.io/codice-tutorial/</b>
 
-GLHF
+GLHF!
 
 Martina Dello Buono
 <br>
